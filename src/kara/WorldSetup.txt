@@ -1,0 +1,4 @@
+World: Kara Bad Apple!!
+X: 48
+Y: 36
+@   
